@@ -1,0 +1,68 @@
+body
+{
+    background-color: #94B5C0;
+}
+h1,.formula,.intro,.more
+{
+    text-align:center;
+}
+
+.formula,.intro,.more
+{
+    width:100%;
+}
+.intro,.more,.info,.poet
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+h1
+{
+    color:#214151;
+    margin-bottom: -0.5em;
+}
+.formula
+{
+    font-size: 1.9em;
+    line-height: 2em;
+    font-style: oblique;
+    font-weight: 550;
+    color:green;
+
+}
+.intro,.more
+{
+    font-weight: 700;
+    font-size: 1.1em;
+}
+.more
+{
+    line-height: 2.5em;
+}
+img
+{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:200px;
+    height: 280px;
+}
+.info
+{
+    font-weight: 400;
+    font-size: 1.1em;
+    line-height: -1.2em;
+}
+.quote
+{
+    font-size: 1.4em;
+    font-weight: 500;
+    margin-left: 1.7em;
+    line-height: 1px;
+}
+.poet
+{
+    margin-left: 2.2em;
+    line-height: 5em;
+    font-weight: 400;
+    font-size: 1.1em;   
+}

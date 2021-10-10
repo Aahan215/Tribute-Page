@@ -2,7 +2,7 @@ body
 {
     background-color: #94B5C0;
 }
-h1,.formula,.intro,.more
+h1,.formula,.intro,.more//text alignment
 {
     text-align:center;
 }
